@@ -40,8 +40,16 @@ h1, h2, h3, h4 {
     color: #828282;
 }
 
+.post-form-blog textarea {
 
+    width: 100%;
 
+}
+
+.post-form-blog .btn-primary {
+    float: right;
+
+}
 
 
 
